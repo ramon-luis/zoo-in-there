@@ -2,8 +2,7 @@
 
 It's a Zoo In There is an educational iOS application that contains a gallery of highly unusual animal images and facts.  It was intended to give me a chance to get familiar with Swift and xCode and to give others insight into the high fashion world of animals.
 
-![Zoo In There Screenshot 1](https://github.com/ramon-luis/zoo-in-there/raw/master/demo/zoo-in-there-screenshot-1.png "Zoo In There Screenshot 1")
-![Zoo In THere Screenshot 2](https://github.com/ramon-luis/zoo-in-there/raw/master/demo/zoo-in-there-screenshot-2.png "Zoo In There Screenshot 2")
+![Zoo In There Screenshot 5](https://github.com/ramon-luis/zoo-in-there/raw/master/demo/zoo-in-there-screenshot-5.png "Zoo In There Screenshot 5")
 
 ## Getting Started / Installing / Deployment
 
