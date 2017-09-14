@@ -3,7 +3,7 @@
 It's a Zoo In There is an educational iOS application that contains a gallery of highly unusual animal images and facts.  It was intended to give me a chance to get familiar with Swift and xCode and to give others insight into the high fashion world of animals.
 
 <kbd>
-	<img src="https://github.com/ramon-luis/zoo-in-there/raw/master/demo/zoo-in-there-screenshot-5.png">
+	<img src="https://github.com/ramon-luis/zoo-in-there/raw/master/demo/zoo-in-there-screenshot-3.png">
 </kbd>
 <br />
 <br />
@@ -13,7 +13,7 @@ It's a Zoo In There is an educational iOS application that contains a gallery of
 <br />
 <br />
 <kbd>
-	<img src="https://github.com/ramon-luis/zoo-in-there/raw/master/demo/zoo-in-there-6.png">
+	<img src="https://github.com/ramon-luis/zoo-in-there/raw/master/demo/zoo-in-there-screenshot-6.png">
 </kbd>
 <br />
 <br />
